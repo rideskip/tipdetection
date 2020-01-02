@@ -10,7 +10,7 @@ The tip-over data contains local timestamp and latitude/longitude information re
 
 | Field Name        | Description                                                           |
 |-------------------|-----------------------------------------------------------------------|
-| datetimeLoc       | Timestamp in local timezone ("America/New_York")                      |
+| datetimeLoc       | Timestamp in local timezone (e.g., for DC, "America/New_York")                      |
 | latitude          | Latitude where tip-over occurred                                      |
 | longitude         | Longitude where tip-over occurred                                     |
 | response_time_sec | Time delta between tip-over alert creation and resolution, in seconds |
