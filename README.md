@@ -14,3 +14,8 @@ The tip-over data contains local timestamp and latitude/longitude information re
 | latitude          | Latitude where tip-over occurred                                      |
 | longitude         | Longitude where tip-over occurred                                     |
 | response_time_sec | Time delta between tip-over alert creation and resolution, in seconds |
+
+
+### Medium Article
+
+https://medium.com/@skipscooters/announcing-tip-over-detection-8264b53c14f2
